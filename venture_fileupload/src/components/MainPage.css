@@ -1,0 +1,22 @@
+.site-header {
+    background-color: #0000ff ;
+    border-bottom: 1px solid #cccccc;
+    position: fixed;
+    width: 100%;
+    color:white;
+    z-index: 1000;
+    
+  }
+
+  .page {
+    padding-top: 61px;
+    font-family: 'Ubuntu', sans-serif;
+  }
+
+  .navigation{
+    width: 30%
+  }
+
+  .viewer{
+    width: 70%
+  }
